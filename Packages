@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: tiger
 Depends: mobilesubstrate
 Filename: debs/net.limneos.palfix_0.0.1-6_iphoneos-arm.deb
-Depictions: https://tiger-repo.github.io/Tiger/
+Depictions: https://tiger-repo.github.io/Tiger/depictions/?p=net.limneos.palfix_0.0.1-6_iphoneos-arm
 Size: 8248
 Md5sum:
 section: Tweaks
